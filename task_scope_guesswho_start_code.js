@@ -13,23 +13,25 @@
 
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
-// // Prediction: 
+// // Prediction: Joseph
 
 // // GUESS 2 ///////////////////
 
-let firstName = "Donna";
+// let firstName = "Donna";
 
-const guessWho = function () {
-  const glasses = false;
-  let firstName = "Liz";
-  return `Guess Who is ${firstName}.`;
-};
+// const guessWho = function () {
+//   const glasses = false;
+//   let firstName = "Liz";
+//   return `Guess Who is ${firstName}.`;
+// };
 
-const guess1 = guessWho();
-console.log("guess1: ", guess1);
+// const guess1 = guessWho();
+// console.log("guess1: ", guess1);
 
-const guess2 = `Guess Who is ${firstName}`;
-console.log("guess2: ", guess2);
+// const guess2 = `Guess Who is ${firstName}`;
+// console.log("guess2: ", guess2);
+// Lizz
+// Donna
 
 // // GUESS 3 ///////////////////
 
@@ -61,6 +63,7 @@ console.log("guess2: ", guess2);
 
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
+// Chris
 
 // // GUESS 4 ///////////////////
 
@@ -76,6 +79,7 @@ console.log("guess2: ", guess2);
 
 // const finalAnswer = guessWho();
 // console.log(finalAnswer);
+//Gail
 
 // // GUESS 5 ///////////////////
 
@@ -100,3 +104,4 @@ console.log("guess2: ", guess2);
 // changeGuess();
 
 // console.log(`Guess Who is ${guess.firstName}`);
+// Error
